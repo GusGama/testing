@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{5164A6A1-8CD9-F31F-EEAD-8270DF39973E}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/plancha.cs">
+    <Files>
+      <File FileName="Assets/Scripts/playerController.cs" Line="26" Column="8" />
+      <File FileName="Assets/Scripts/scoreManager.cs" Line="17" Column="17" />
+      <File FileName="Assets/Scripts/PickUpPoints.cs" Line="25" Column="41" />
+      <File FileName="Assets/Scripts/generadorBotellas.cs" Line="16" Column="65" />
+      <File FileName="Assets/Scripts/platformGenerator.cs" Line="54" Column="15" />
+      <File FileName="Assets/Scripts/BotellasCaer.cs" Line="19" Column="66" />
+      <File FileName="Assets/Scripts/platformDestroyer.cs" Line="10" Column="9" />
+      <File FileName="Assets/Scripts/destructor_botellas.cs" Line="19" Column="33" />
+      <File FileName="Assets/Scripts/plancha.cs" Line="6" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
