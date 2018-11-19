@@ -1,0 +1,1686 @@
+fileFormatVersion: 2
+guid: b89aac22d716d4081a3e0e19651796fc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Atlas 3 MOD_0
+    21300002: Atlas 3 MOD_1
+    21300004: Atlas 3 MOD_2
+    21300006: Atlas 3 MOD_3
+    21300008: Atlas 3 MOD_4
+    21300010: Atlas 3 MOD_5
+    21300012: Atlas 3 MOD_6
+    21300014: Atlas 3 MOD_7
+    21300016: Atlas 3 MOD_8
+    21300018: Atlas 3 MOD_9
+    21300020: Atlas 3 MOD_10
+    21300022: Atlas 3 MOD_11
+    21300024: Atlas 3 MOD_12
+    21300026: Atlas 3 MOD_13
+    21300028: Atlas 3 MOD_14
+    21300030: Atlas 3 MOD_15
+    21300032: Atlas 3 MOD_16
+    21300034: Atlas 3 MOD_17
+    21300036: Atlas 3 MOD_18
+    21300038: Atlas 3 MOD_19
+    21300040: Atlas 3 MOD_20
+    21300042: Atlas 3 MOD_21
+    21300044: Atlas 3 MOD_22
+    21300046: Atlas 3 MOD_23
+    21300048: Atlas 3 MOD_24
+    21300050: Atlas 3 MOD_25
+    21300052: Atlas 3 MOD_26
+    21300054: Atlas 3 MOD_27
+    21300056: Atlas 3 MOD_28
+    21300058: Atlas 3 MOD_29
+    21300060: Atlas 3 MOD_30
+    21300062: Atlas 3 MOD_31
+    21300064: Atlas 3 MOD_32
+    21300066: Atlas 3 MOD_33
+    21300068: Atlas 3 MOD_34
+    21300070: Atlas 3 MOD_35
+    21300072: Atlas 3 MOD_36
+    21300074: Atlas 3 MOD_37
+    21300076: Atlas 3 MOD_38
+    21300078: Atlas 3 MOD_39
+    21300080: Atlas 3 MOD_40
+    21300082: Atlas 3 MOD_41
+    21300084: Atlas 3 MOD_42
+    21300086: Atlas 3 MOD_43
+    21300088: Atlas 3 MOD_44
+    21300090: Atlas 3 MOD_45
+    21300092: Atlas 3 MOD_46
+    21300094: Atlas 3 MOD_47
+    21300096: Atlas 3 MOD_48
+    21300098: Atlas 3 MOD_49
+    21300100: Atlas 3 MOD_50
+    21300102: Atlas 3 MOD_51
+    21300104: Atlas 3 MOD_52
+    21300106: Atlas 3 MOD_53
+    21300108: Atlas 3 MOD_54
+    21300110: Atlas 3 MOD_55
+    21300112: Atlas 3 MOD_56
+    21300114: Atlas 3 MOD_57
+    21300116: Atlas 3 MOD_58
+    21300118: Atlas 3 MOD_59
+    21300120: Atlas 3 MOD_60
+    21300122: Atlas 3 MOD_61
+    21300124: Atlas 3 MOD_62
+    21300126: Atlas 3 MOD_63
+    21300128: Atlas 3 MOD_64
+    21300130: Atlas 3 MOD_65
+    21300132: Atlas 3 MOD_66
+    21300134: Atlas 3 MOD_67
+    21300136: Atlas 3 MOD_68
+    21300138: Atlas 3 MOD_69
+    21300140: Atlas 3 MOD_70
+    21300142: Atlas 3 MOD_71
+    21300144: Atlas 3 MOD_72
+    21300146: Atlas 3 MOD_73
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas 3 MOD_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1563
+        width: 137
+        height: 2329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bd54ebf86b24da6bd8dfe4a4f7784f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_1
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 2896
+        width: 1516
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f0aa6bf81854259a6813e31ccf2a73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_2
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 2403
+        width: 680
+        height: 1018
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92ac820a9a64445285cb94d788a4bb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_3
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 3349
+        width: 182
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c1f8c41651747b19a0ecf3c02df00e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_4
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 1476
+        width: 903
+        height: 2400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196e1c01b9d6b4deaae2b9d64fa0c048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_5
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1419
+        width: 1789
+        height: 1158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cd29dc4261948fa8a3ea581e3b1400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_6
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 2359
+        width: 165
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25308a3f19b744e0b73b455db118090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_7
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 78
+        width: 261
+        height: 1032
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969bc47643c7741a393ed6f9dad24555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_8
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 79
+        width: 298
+        height: 1094
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fad78228c3d4bcba9aa6687f40939e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_9
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 106
+        width: 308
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994b25a9bd223446ea67937261f7fbcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_10
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 825
+        width: 168
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21de857c15294807a85644dbc3e0c4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_11
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 1063
+        width: 51
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b302ef850f449459cecf5dce0887ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_12
+      rect:
+        serializedVersion: 2
+        x: 3141
+        y: 531
+        width: 750
+        height: 751
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e88303476e534cbd854761b89268fa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_13
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 955
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8750c78fa13dc4f89ae508628b106d86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_14
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 833
+        width: 127
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6da54d2972c4e88b535270890dd684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_15
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 687
+        width: 77
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae64943c2258946fea61c7c338752a32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_16
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 710
+        width: 74
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0804313a0f45c4f04b6b6cf07bdfd6c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_17
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 672
+        width: 85
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a37c3ef0e644d5f9c235a0bddacfc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_18
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 816
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f1f85c0eb2f4ba4bcbbbd9d3861a20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_19
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 767
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1869298b3f243069653c05371109a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_20
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 734
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c922525f9fc4a209c7e2515b04b915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_21
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 625
+        width: 121
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4401d9f91cce64d4badef1e9be7d720e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_22
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 722
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9ca14c4f8ad45ea8ce4b5d8d694e81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_23
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 575
+        width: 64
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2010aa60d8e554ae49c511430a02b95e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_24
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 522
+        width: 72
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b1600fac7f94491b9963c1df0195fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_25
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 713
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e49405a3d26d4a24a51d3d673b808c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_26
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 705
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a5ddb85dc4f46f4b53a22f98e993a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_27
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 486
+        width: 87
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb8ad0819bf04a9eb54a7bfa1aa5784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_28
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 552
+        width: 79
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b807a0857092c4745ba0fd23a095f3d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_29
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 669
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac3a8e98ac164862b3451d568be1747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_30
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 660
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b31be2b46a1e4729b411482352912b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_31
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 644
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4107e3d5b4c07411abadd93bcda0445d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_32
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 437
+        width: 86
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819bfa44dfc0c4a4ab11de4008ebf03a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_33
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 568
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9c0a2d103a84596b3f54fb7d5622b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_34
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 380
+        width: 137
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d13838337fc948fa9cd69f2155f3d5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_35
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 476
+        width: 98
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddcb90be771f421a923e0ea2edc6b88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_36
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 533
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83bd1f2ee23e458987db03733f558be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_37
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 431
+        width: 59
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f226e6272074365a2dfbf8343fc499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_38
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 511
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8e51ea2efe845ce80188f9dda3529f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_39
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 497
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a76198418cb24823bbb37bebe37094a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_40
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 407
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77daa3afda354ae39c00001a79663d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_41
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 484
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87aaa4347e21f49fb8c72593e2a8d413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_42
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 148
+        width: 101
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5667f00eab27465792aac974aa1444e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_43
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 490
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667427248fefb412dabb9617d84af0f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_44
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 52
+        width: 237
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e6c378a464c4623839f550885eeda4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_45
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 247
+        width: 103
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8d2690213ee4b089c1134f56d01a94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_46
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 321
+        width: 62
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261d4f539f7344d2292496d2fa79d250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_47
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 132
+        width: 336
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6629b1d4cf3af480f8a8e35866d60e19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_48
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 449
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d0a9eec250346fa9b09545d627eac3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_49
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 423
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1be90ab263845be9deccca494aeff6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_50
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 106
+        width: 138
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22733d0900334b94876a95664fa71b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_51
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 132
+        width: 172
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624369659fc8642fc9ac6b3e380c74d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_52
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 317
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338b0fecf171e42f58b160fe3c0d817c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_53
+      rect:
+        serializedVersion: 2
+        x: 2913
+        y: 134
+        width: 330
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50ff75cedb5649e696cae296d7cdf27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_54
+      rect:
+        serializedVersion: 2
+        x: 3187
+        y: 300
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbca2dcbc554f4440a13f48e97018564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_55
+      rect:
+        serializedVersion: 2
+        x: 3927
+        y: 265
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7276a75422be6488397f029159dfa8eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_56
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 310
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa78372ec00d40edb62078ea9594d36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_57
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 310
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0b1f87d93714e30ab86ade6aede9d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_58
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 258
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824d6b6a9a893410a9073af7e5022ee5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_59
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 185
+        width: 54
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc6f442e24d84a8093ecf0696ea3e3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_60
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 277
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5881665766734bceb2d64d3ba9eb374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_61
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 214
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1f0ce8838f143c2a1b6724c8572d84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_62
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 267
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4037d48ee83af49ce96d52196aff3f5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_63
+      rect:
+        serializedVersion: 2
+        x: 3179
+        y: 234
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b849e921e8dc74e78b96a3f199d88c89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_64
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 222
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc71bb8167ff143bdab815f30deeb751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_65
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 175
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4073a6e6a5b6048a3b85ef8de2ecabb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_66
+      rect:
+        serializedVersion: 2
+        x: 3917
+        y: 156
+        width: 51
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830c97fdbed87491bb9eb130812f7d85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_67
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 234
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6586bffbdae1947bf9ba7b217f00edb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_68
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 159
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6015297d121a7402cac13b1ebb57bfe5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_69
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 132
+        width: 276
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afea0992dca61417da042d4b8d8a83d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_70
+      rect:
+        serializedVersion: 2
+        x: 3907
+        y: 197
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193d097e34628410bbd6c66a0de75b5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_71
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 173
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca5c317e4f3b4c4e951e68524d3aa87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_72
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 140
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fc5e292904f4f6383e0d08fb3985d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas 3 MOD_73
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 140
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5150070d56a40449b43c78373b491f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 97456a115b24d4a60878a0eb60a924a5
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -194,26 +194,6 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Atlas 3_0
-      rect:
-        serializedVersion: 2
-        x: 77
-        y: 1529
-        width: 119
-        height: 221
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2346a42c019ee40fda3d9d36aa4a1a11
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Atlas 3_1
       rect:
         serializedVersion: 2
@@ -237,8 +217,8 @@ TextureImporter:
       name: Atlas 3_2
       rect:
         serializedVersion: 2
-        x: 860
-        y: 1482
+        x: 884
+        y: 1494
         width: 2154
         height: 2482
       alignment: 0
@@ -257,7 +237,7 @@ TextureImporter:
       name: Atlas 3_3
       rect:
         serializedVersion: 2
-        x: 3118
+        x: 3100
         y: 1487
         width: 873
         height: 2399
@@ -1642,7 +1622,7 @@ TextureImporter:
         width: 556
         height: 396
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1662,7 +1642,7 @@ TextureImporter:
         width: 597
         height: 431
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1682,7 +1662,7 @@ TextureImporter:
         width: 473
         height: 697
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1702,7 +1682,7 @@ TextureImporter:
         width: 384
         height: 1158
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1722,7 +1702,7 @@ TextureImporter:
         width: 354
         height: 1164
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

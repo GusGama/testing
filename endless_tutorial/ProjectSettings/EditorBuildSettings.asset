@@ -32,4 +32,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/sandias1.unity
     guid: 6fee7a947923a416f96bd69d15aee79b
+  - enabled: 1
+    path: Assets/Scenes/comprimir.unity
+    guid: b8cf0522e50c44508bb1bdcf905d44ea
   m_configObjects: {}
