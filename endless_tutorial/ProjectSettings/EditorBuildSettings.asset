@@ -6,6 +6,30 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/runer.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 75737166fb6c845679c35a6a9b35de61
+  - enabled: 1
+    path: Assets/Scenes/lavar.unity
+    guid: eb429c722fb5642cda2a6d7b31e0eb1c
+  - enabled: 1
+    path: Assets/Scenes/sandias.unity
+    guid: 71092fc01e4ee4342812f3692029d849
+  - enabled: 1
+    path: Assets/Scenes/sandias2.unity
+    guid: acbd3eb20ffe44b73988f2c265afc3ce
+  - enabled: 1
+    path: Assets/Scenes/cortar.unity
+    guid: f61c0235526cf48faad084971a989823
+  - enabled: 1
+    path: Assets/Scenes/sandias3.unity
+    guid: 50a9b26f50caa4d86958d933ea780cf9
+  - enabled: 1
+    path: Assets/Scenes/incinera.unity
+    guid: f48c41fc8933d4e7c9a5048544118cfb
+  - enabled: 1
+    path: Assets/Scenes/sandias1.unity
+    guid: 6fee7a947923a416f96bd69d15aee79b
   m_configObjects: {}

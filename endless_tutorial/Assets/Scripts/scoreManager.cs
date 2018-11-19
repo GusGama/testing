@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine.UI;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class scoreManager : MonoBehaviour {
     public Text scoreText;
@@ -27,6 +28,9 @@ public class scoreManager : MonoBehaviour {
         }
 
         scoreText.text = "Distancia: " + Mathf.Round(scoreCount);
+        if (Mathf.Round(scoreCount)>=20){
+            SceneManager.LoadScene("sandias", LoadSceneMode.Single);
+        }
 
         highScore.text = "Distancia Max: " + Mathf.Round(highScoreCount);
 

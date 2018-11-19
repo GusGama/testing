@@ -67,24 +67,27 @@
     <Compile Include="Assets\Scripts\crearBotellas.cs" />
     <Compile Include="Assets\Scripts\destructor_botellas.cs" />
     <Compile Include="Assets\Scripts\generadorBotellas.cs" />
+    <Compile Include="Assets\Scripts\lavar_botellas.cs" />
+    <Compile Include="Assets\Scripts\MainMenu.cs" />
     <Compile Include="Assets\Scripts\objectPuller.cs" />
     <Compile Include="Assets\Scripts\PickUpPoints.cs" />
     <Compile Include="Assets\Scripts\plancha.cs" />
     <Compile Include="Assets\Scripts\platformDestroyer.cs" />
     <Compile Include="Assets\Scripts\platformGenerator.cs" />
     <Compile Include="Assets\Scripts\playerController.cs" />
+    <Compile Include="Assets\Scripts\SabiasQueCount.cs" />
     <Compile Include="Assets\Scripts\scoreManager.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/gustavogama/endless_tutorial/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/gustavogama/Endless/endless_tutorial/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/gustavogama/endless_tutorial/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/gustavogama/Endless/endless_tutorial/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/gustavogama/endless_tutorial/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/gustavogama/Endless/endless_tutorial/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/gustavogama/endless_tutorial/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/gustavogama/Endless/endless_tutorial/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
