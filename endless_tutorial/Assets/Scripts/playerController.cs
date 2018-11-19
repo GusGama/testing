@@ -40,7 +40,7 @@ public class playerController : MonoBehaviour {
 
         myRb.velocity = new Vector2(moveSpeed, myRb.velocity.y);
 
-        if (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.UpArrow) ) 
+        if (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.UpArrow) || Input.GetTouch(0).phase == TouchPhase.Began) 
         {
             if (grounded)
             {
