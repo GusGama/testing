@@ -130,7 +130,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4291038111108922, guid: 1b036a6824b64493ba34352c34aefa8d, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 3.2
       objectReference: {fileID: 0}
     - target: {fileID: 4291038111108922, guid: 1b036a6824b64493ba34352c34aefa8d, type: 2}
       propertyPath: m_LocalRotation.x
@@ -155,6 +155,10 @@ Prefab:
     - target: {fileID: 1213339954880302, guid: 1b036a6824b64493ba34352c34aefa8d, type: 2}
       propertyPath: m_Name
       value: planchota (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4089058307953148, guid: 1b036a6824b64493ba34352c34aefa8d, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 15.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1b036a6824b64493ba34352c34aefa8d, type: 2}
@@ -691,6 +695,7 @@ GameObject:
   - component: {fileID: 1285957921}
   - component: {fileID: 1285957920}
   - component: {fileID: 1285957924}
+  - component: {fileID: 1285957925}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -787,6 +792,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   obj1: {fileID: 2147350351}
   obj2: {fileID: 527483277}
+--- !u!114 &1285957925
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1285957919}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a5e6cd43410a41d9b18e894a0d8f7ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreCount: 0
+  pointForScore: 0
+  destino: fin
 --- !u!1 &1409975843
 GameObject:
   m_ObjectHideFlags: 0

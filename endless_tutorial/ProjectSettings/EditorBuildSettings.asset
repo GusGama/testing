@@ -35,4 +35,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/comprimir.unity
     guid: b8cf0522e50c44508bb1bdcf905d44ea
+  - enabled: 1
+    path: Assets/Scenes/Instrucciones.unity
+    guid: d47795dab29c54417936e9b410686e98
+  - enabled: 1
+    path: Assets/Scenes/fin.unity
+    guid: 815518b97eca441c093130084b06a9c2
+  - enabled: 1
+    path: Assets/Scenes/evaluacion.unity
+    guid: 584f237664b0349799b1703916068368
   m_configObjects: {}

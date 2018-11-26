@@ -61,6 +61,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\avanza_Imagenes.cs" />
+    <Compile Include="Assets\Scripts\avanza_juegos.cs" />
     <Compile Include="Assets\Scripts\botellaDesaparece.cs" />
     <Compile Include="Assets\Scripts\BotellasCaer.cs" />
     <Compile Include="Assets\Scripts\cameraController.cs" />

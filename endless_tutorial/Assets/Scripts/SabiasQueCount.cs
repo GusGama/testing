@@ -15,7 +15,7 @@ public class SabiasQueCount : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         scoreCount += pointForScore *Time.deltaTime;
-        if (Mathf.Round(scoreCount) >= 15){
+        if (Input.GetKey(KeyCode.Space)){
             SceneManager.LoadScene(destino, LoadSceneMode.Single);
         }
     }
