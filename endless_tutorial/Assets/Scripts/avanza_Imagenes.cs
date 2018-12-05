@@ -16,7 +16,8 @@ public class avanza_Imagenes : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        if(Input.GetKeyDown(KeyCode.Space)){
+       
+        if (Input.GetKeyDown(KeyCode.Space)){
             numImagen += 1;
         }
         if (numImagen == 0)
@@ -28,7 +29,7 @@ public class avanza_Imagenes : MonoBehaviour {
             obj1.SetActive(false);
             obj2.SetActive(true);
         } else{
-            SceneManager.LoadScene("runer", LoadSceneMode.Single);
+            SceneManager.LoadScene("3.runer", LoadSceneMode.Single);
         }
 	}
 }

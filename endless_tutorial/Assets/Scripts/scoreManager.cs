@@ -29,7 +29,7 @@ public class scoreManager : MonoBehaviour {
 
         scoreText.text = "Distancia: " + Mathf.Round(scoreCount);
         if (Mathf.Round(scoreCount)>=100){
-            SceneManager.LoadScene("sandias", LoadSceneMode.Single);
+            SceneManager.LoadScene("4.sandias", LoadSceneMode.Single);
         }
 
         highScore.text = "Distancia Max: " + Mathf.Round(highScoreCount);
