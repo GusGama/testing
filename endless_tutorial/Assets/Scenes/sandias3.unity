@@ -309,22 +309,22 @@ Prefab:
     - target: {fileID: 224686932358378736, guid: f03ab4fb6addc494f834077d5f657e30,
         type: 2}
       propertyPath: m_AnchoredPosition.x
-      value: -5.1625
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224686932358378736, guid: f03ab4fb6addc494f834077d5f657e30,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: 19.8
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224686932358378736, guid: f03ab4fb6addc494f834077d5f657e30,
         type: 2}
       propertyPath: m_SizeDelta.x
-      value: 640.67
+      value: 1276
       objectReference: {fileID: 0}
     - target: {fileID: 224686932358378736, guid: f03ab4fb6addc494f834077d5f657e30,
         type: 2}
       propertyPath: m_SizeDelta.y
-      value: 358.6
+      value: 638
       objectReference: {fileID: 0}
     - target: {fileID: 224686932358378736, guid: f03ab4fb6addc494f834077d5f657e30,
         type: 2}

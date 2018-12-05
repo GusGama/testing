@@ -11,7 +11,7 @@ public class playerController : MonoBehaviour {
     public float speedIncreaseMilestone;
     private float speedMilestoneCount;
 
-
+    Touch toque;
     private Rigidbody2D myRb;
     public bool grounded;
     public Transform groundCheck;
@@ -30,6 +30,13 @@ public class playerController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+
+        if (Input.touchCount > 0){
+            toque = Input.GetTouch(0);
+        }
+        if(toque.phase == TouchPhase.Began){
+            Debug.Log("toca");
+        }
         grounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, whatIsground);
         //grounded = Physics2D.IsTouchingLayers(myC, whatIsground);
         if(transform.position.x > speedMilestoneCount){
@@ -40,21 +47,23 @@ public class playerController : MonoBehaviour {
 
         myRb.velocity = new Vector2(moveSpeed, myRb.velocity.y);
 
-        if (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.UpArrow)) 
+        if (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.UpArrow) || toque.phase == TouchPhase.Began) 
         {
             if (grounded)
             {
                 myRb.velocity = new Vector2(myRb.velocity.x, jumpForce);
             }
         }
-        if(Input.GetKey(KeyCode.Space)){
+        if(Input.GetKey(KeyCode.Space) || toque.phase == TouchPhase.Began)
+        {
             if(jumpTimeCounter > 0){
                 myRb.velocity = new Vector2(myRb.velocity.x, jumpForce);
                 jumpTimeCounter -= Time.deltaTime;
             }
 
         }
-        if (Input.GetKeyUp(KeyCode.Space)){
+        if (Input.GetKeyUp(KeyCode.Space) || toque.phase == TouchPhase.Began)
+        {
             jumpTimeCounter = 0; 
         }
         if(grounded){

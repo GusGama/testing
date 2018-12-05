@@ -8,6 +8,7 @@ public class avanza_Imagenes : MonoBehaviour {
     public int numImagen;
     public GameObject obj1;
     public GameObject obj2;
+    private Touch toque;
 	// Use this for initialization
 	void Start () {
         numImagen = 0;
@@ -16,7 +17,15 @@ public class avanza_Imagenes : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        if(Input.GetKeyDown(KeyCode.Space)){
+        if (Input.touchCount > 0)
+        {
+            toque = Input.GetTouch(0);
+        }
+        if (toque.phase == TouchPhase.Ended)
+        {
+            Debug.Log("toca");
+        }
+        if (Input.GetKeyDown(KeyCode.Space) || toque.phase == TouchPhase.Ended){
             numImagen += 1;
         }
         if (numImagen == 0)
